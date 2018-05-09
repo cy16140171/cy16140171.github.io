@@ -1,0 +1,6 @@
+User-agent:*
+Disallow: /A/B/
+Disallow: /C/
+Disallow: /A/321.jpg
+
+Sitemap: http://cy16140171.github.io/sitemap.xml
