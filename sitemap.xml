@@ -1,0 +1,5 @@
+User-agent:*
+Disallow: /favicon.ico
+Disallow: /assests/
+
+Sitemap: http://cy16140171.github.io/sitemap.xml
